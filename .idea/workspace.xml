@@ -2,14 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="008cd468-ce1a-456b-9833-2ca281814163" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/04. Functions and Arrow Functions/01. Triangle of Stars.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/04. Functions and Arrow Functions/02. Square of Stars.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/04. Functions and Arrow Functions/03. Palindrome.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/04. Functions and Arrow Functions/04. Day of Week.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/04. Functions and Arrow Functions/05. Functional Calculator.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/04. Functions and Arrow Functions/06. Aggregate Elements.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/04. Functions and Arrow Functions/07.Words UpperCase.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/01. Inside Volume.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/06.Arrays and Matrices/01. Sum First Last.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/06.Arrays and Matrices/02. Even Position Elements.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/06.Arrays and Matrices/03. Negative  and Positive Numbers.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/06.Arrays and Matrices/04. First and Last K Numbers.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/06.Arrays and Matrices/05. Last K Numbers Sequence.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/06.Arrays and Matrices/06. Process Odd Numbers.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/06.Arrays and Matrices/07. Smallest Two Numbers.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/06.Arrays and Matrices/08. Biggest Element.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/06.Arrays and Matrices/09. Diagonal Sums.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/06.Arrays and Matrices/10. Equal Neighbors.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/07.Arrays and Matrices Exercise/01. Print Array with Given Delimiter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/07.Arrays and Matrices Exercise/02. Print every N-th Element from an Array.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/07.Arrays and Matrices Exercise/03. Add and Remove Elements.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/07.Arrays and Matrices Exercise/04. Rotate Array.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/07.Arrays and Matrices Exercise/05. Extract Increasing Subsequence from Array.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/07.Arrays and Matrices Exercise/06. Sort Array.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/07.Arrays and Matrices Exercise/07. Magic Matrices.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -24,78 +33,88 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="20. Multiplication Table.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03.Expressions, Conditional Statements and Loops/20. Multiplication Table.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="01. Triangle of Stars.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04. Functions and Arrow Functions/01. Triangle of Stars.js">
+      <file leaf-file-name="08. Biggest Element.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06.Arrays and Matrices/08. Biggest Element.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="02. Square of Stars.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04. Functions and Arrow Functions/02. Square of Stars.js">
+      <file leaf-file-name="09. Diagonal Sums.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06.Arrays and Matrices/09. Diagonal Sums.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="209">
+              <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="03. Palindrome.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04. Functions and Arrow Functions/03. Palindrome.js">
+      <file leaf-file-name="10. Equal Neighbors.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06.Arrays and Matrices/10. Equal Neighbors.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="112">
+              <caret line="12" column="29" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="04. Day of Week.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04. Functions and Arrow Functions/04. Day of Week.js">
+      <file leaf-file-name="01. Print Array with Given Delimiter.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07.Arrays and Matrices Exercise/01. Print Array with Given Delimiter.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            <state relative-caret-position="34">
+              <caret line="2" column="39" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="05. Functional Calculator.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04. Functions and Arrow Functions/05. Functional Calculator.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="06. Aggregate Elements.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04. Functions and Arrow Functions/06. Aggregate Elements.js">
+      <file leaf-file-name="02. Print every N-th Element from an Array.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07.Arrays and Matrices Exercise/02. Print every N-th Element from an Array.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="07.Words UpperCase.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04. Functions and Arrow Functions/07.Words UpperCase.js">
+      <file leaf-file-name="03. Add and Remove Elements.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07.Arrays and Matrices Exercise/03. Add and Remove Elements.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="19" column="26" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04. Rotate Array.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07.Arrays and Matrices Exercise/04. Rotate Array.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="52" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05. Extract Increasing Subsequence from Array.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07.Arrays and Matrices Exercise/05. Extract Increasing Subsequence from Array.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06. Sort Array.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07.Arrays and Matrices Exercise/06. Sort Array.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
@@ -104,21 +123,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="01. Inside Volume.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/01. Inside Volume.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="05. Grads to Radians.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/03.Expressions, Conditional Statements and Loops/05. Grads to Radians.js">
+      <file leaf-file-name="07. Magic Matrices.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07.Arrays and Matrices Exercise/07. Magic Matrices.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
+              <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -140,24 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/01.Intro to Java Script/02. Calculate Sum and VAT.js" />
-        <option value="$PROJECT_DIR$/01.Intro to Java Script/03. Letter Occurences In String.js" />
-        <option value="$PROJECT_DIR$/01.Intro to Java Script/04. Filter By Age.js" />
-        <option value="$PROJECT_DIR$/01.Intro to Java Script/05. String of Numbers 1..N.js" />
-        <option value="$PROJECT_DIR$/01.Intro to Java Script/06. Figure Area.js" />
-        <option value="$PROJECT_DIR$/01.Intro to Java Script/07. Next Day.js" />
-        <option value="$PROJECT_DIR$/01.Intro to Java Script/08. Distance between Points.js" />
-        <option value="$PROJECT_DIR$/02. Control-Flow Logic/01. Multiply Numbers.js" />
-        <option value="$PROJECT_DIR$/02. Control-Flow Logic/02. Boxes and Bottles.js" />
-        <option value="$PROJECT_DIR$/02. Control-Flow Logic/03. Leap Year.js" />
-        <option value="$PROJECT_DIR$/02. Control-Flow Logic/04. Circle Area.js" />
-        <option value="$PROJECT_DIR$/02. Control-Flow Logic/05. Triangle Area.js" />
-        <option value="$PROJECT_DIR$/02. Control-Flow Logic/06. Cone.js" />
-        <option value="$PROJECT_DIR$/02. Control-Flow Logic/08. Fruit or Vegetable.js" />
-        <option value="$PROJECT_DIR$/02. Control-Flow Logic/07. Odd or Even.js" />
-        <option value="$PROJECT_DIR$/02. Control-Flow Logic/09. Colorful Numbers.js" />
-        <option value="$PROJECT_DIR$/02. Control-Flow Logic/10. Chessboard.js" />
-        <option value="$PROJECT_DIR$/02. Control-Flow Logic/11. Binary Logarithm.js" />
         <option value="$PROJECT_DIR$/02. Control-Flow Logic/12. Prime Number Checker.js" />
         <option value="$PROJECT_DIR$/03.Expressions, Conditional Statements and Loops/01.Hello JavaScript.js" />
         <option value="$PROJECT_DIR$/03.Expressions, Conditional Statements and Loops/game.html" />
@@ -191,6 +182,24 @@
         <option value="$PROJECT_DIR$/04. Functions and Arrow Functions/06. Aggregate Elements.js" />
         <option value="$PROJECT_DIR$/04. Functions and Arrow Functions/07.Words UpperCase.js" />
         <option value="$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/01. Inside Volume.js" />
+        <option value="$PROJECT_DIR$/06.Arrays and Matrices/01. Sum First Last.js" />
+        <option value="$PROJECT_DIR$/06.Arrays and Matrices/02. Even Position Elements.js" />
+        <option value="$PROJECT_DIR$/06.Arrays and Matrices/03. Negative  and Positive Numbers.js" />
+        <option value="$PROJECT_DIR$/06.Arrays and Matrices/04. First and Last K Numbers.js" />
+        <option value="$PROJECT_DIR$/06.Arrays and Matrices/05. Last K Numbers Sequence.js" />
+        <option value="$PROJECT_DIR$/06.Arrays and Matrices/06. Process Odd Numbers.js" />
+        <option value="$PROJECT_DIR$/06.Arrays and Matrices/07. Smallest Two Numbers.js" />
+        <option value="$PROJECT_DIR$/06.Arrays and Matrices/08. Biggest Element.js" />
+        <option value="$PROJECT_DIR$/06.Arrays and Matrices/09. Diagonal Sums.js" />
+        <option value="$PROJECT_DIR$/06.Arrays and Matrices/10. Equal Neighbors.js" />
+        <option value="$PROJECT_DIR$/07.Arrays and Matrices Exercise.js" />
+        <option value="$PROJECT_DIR$/07.Arrays and Matrices Exercise/01. Print Array with Given Delimiter.js" />
+        <option value="$PROJECT_DIR$/07.Arrays and Matrices Exercise/02. Print every N-th Element from an Array.js" />
+        <option value="$PROJECT_DIR$/07.Arrays and Matrices Exercise/03. Add and Remove Elements.js" />
+        <option value="$PROJECT_DIR$/07.Arrays and Matrices Exercise/04. Rotate Array.js" />
+        <option value="$PROJECT_DIR$/07.Arrays and Matrices Exercise/05. Extract Increasing Subsequence from Array.js" />
+        <option value="$PROJECT_DIR$/07.Arrays and Matrices Exercise/06. Sort Array.js" />
+        <option value="$PROJECT_DIR$/07.Arrays and Matrices Exercise/07. Magic Matrices.js" />
       </list>
     </option>
   </component>
@@ -206,7 +215,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -249,7 +258,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -260,12 +268,13 @@
             <path>
               <item name="05.Java Script Fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="05.Java Script Fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="03.Expressions, Conditional Statements and Loops" type="462c0819:PsiDirectoryNode" />
+              <item name="07.Arrays and Matrices Exercise" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -275,7 +284,7 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../08.Web Fundamentals - HTML5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RunDashboard">
@@ -290,26 +299,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.05. Functional Calculator.js">
-    <configuration name="p.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core/04. Functions and Arrow Functions/p.html" />
-    <configuration name="01. Triangle of Stars.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="01. Triangle of Stars.js" working-dir="$PROJECT_DIR$/04. Functions and Arrow Functions" />
-    <configuration name="02. Square of Stars.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="02. Square of Stars.js" working-dir="$PROJECT_DIR$/04. Functions and Arrow Functions" />
-    <configuration name="03. Palindrome.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="03. Palindrome.js" working-dir="$PROJECT_DIR$/04. Functions and Arrow Functions" />
-    <configuration name="05. Functional Calculator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="05. Functional Calculator.js" working-dir="$PROJECT_DIR$/04. Functions and Arrow Functions" />
+  <component name="RunManager" selected="Node.js.07. Magic Matrices.js">
+    <configuration name="02. Print every N-th Element from an Array.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="02. Print every N-th Element from an Array.js" working-dir="$PROJECT_DIR$/07.Arrays and Matrices Exercise" />
+    <configuration name="05. Extract Increasing Subsequence from Array.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="05. Extract Increasing Subsequence from Array.js" working-dir="$PROJECT_DIR$/07.Arrays and Matrices Exercise" />
+    <configuration name="06. Sort Array.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="06. Sort Array.js" working-dir="$PROJECT_DIR$/07.Arrays and Matrices Exercise" />
+    <configuration name="07. Magic Matrices.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="07. Magic Matrices.js" working-dir="$PROJECT_DIR$/07.Arrays and Matrices Exercise" />
+    <configuration name="07. Smallest Two Numbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="07. Smallest Two Numbers.js" working-dir="$PROJECT_DIR$/06.Arrays and Matrices" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.01. Triangle of Stars.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.02. Square of Stars.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.03. Palindrome.js" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.p.html" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.05. Functional Calculator.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.07. Smallest Two Numbers.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.02. Print every N-th Element from an Array.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.05. Extract Increasing Subsequence from Array.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.06. Sort Array.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.07. Magic Matrices.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.05. Functional Calculator.js" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.p.html" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.03. Palindrome.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.02. Square of Stars.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.01. Triangle of Stars.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.07. Magic Matrices.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.06. Sort Array.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.05. Extract Increasing Subsequence from Array.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.02. Print every N-th Element from an Array.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.07. Smallest Two Numbers.js" />
       </list>
     </recent_temporary>
   </component>
@@ -338,20 +347,22 @@
       <workItem from="1525596578855" duration="4992000" />
       <workItem from="1525633948469" duration="756000" />
       <workItem from="1525634869757" duration="15000" />
+      <workItem from="1526198736457" duration="15040000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37748000" />
+    <option name="totallyTimeSpent" value="52788000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -374,131 +385,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01.Intro to Java Script/02. Calculate Sum and VAT.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01.Intro to Java Script/04. Filter By Age.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01.Intro to Java Script/03. Letter Occurences In String.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01.Intro to Java Script/05. String of Numbers 1..N.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01.Intro to Java Script/06. Figure Area.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01.Intro to Java Script/07. Next Day.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01.Intro to Java Script/08. Distance between Points.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02. Control-Flow Logic/01. Multiply Numbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02. Control-Flow Logic/02. Boxes and Bottles.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02. Control-Flow Logic/04. Circle Area.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02. Control-Flow Logic/05. Triangle Area.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02. Control-Flow Logic/03. Leap Year.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="6" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02. Control-Flow Logic/06. Cone.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="37" lean-forward="false" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02. Control-Flow Logic/07. Odd or Even.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02. Control-Flow Logic/08. Fruit or Vegetable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02. Control-Flow Logic/09. Colorful Numbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02. Control-Flow Logic/10. Chessboard.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03.Expressions, Conditional Statements and Loops/game.html" />
     <entry file="file://$PROJECT_DIR$/03.Expressions, Conditional Statements and Loops/03. Distance over Time.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -644,7 +535,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -713,6 +603,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/03.Expressions, Conditional Statements and Loops/05. Grads to Radians.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/01. Inside Volume.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -721,10 +619,146 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03.Expressions, Conditional Statements and Loops/05. Grads to Radians.js">
+    <entry file="file://$PROJECT_DIR$/06.Arrays and Matrices/01. Sum First Last.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.Arrays and Matrices/02. Even Position Elements.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.Arrays and Matrices/03. Negative  and Positive Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.Arrays and Matrices/06. Process Odd Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.Arrays and Matrices/07. Smallest Two Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.Arrays and Matrices/05. Last K Numbers Sequence.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="49" lean-forward="false" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.Arrays and Matrices/04. First and Last K Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.Arrays and Matrices/08. Biggest Element.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.Arrays and Matrices/09. Diagonal Sums.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.Arrays and Matrices/10. Equal Neighbors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="12" column="29" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.Arrays and Matrices Exercise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.Arrays and Matrices Exercise/01. Print Array with Given Delimiter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="39" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.Arrays and Matrices Exercise/02. Print every N-th Element from an Array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.Arrays and Matrices Exercise/03. Add and Remove Elements.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="19" column="26" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.Arrays and Matrices Exercise/04. Rotate Array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="52" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.Arrays and Matrices Exercise/05. Extract Increasing Subsequence from Array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.Arrays and Matrices Exercise/06. Sort Array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.Arrays and Matrices Exercise/07. Magic Matrices.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
           <folding />
         </state>
       </provider>
