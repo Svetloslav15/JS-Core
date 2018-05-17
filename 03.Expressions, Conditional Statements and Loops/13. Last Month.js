@@ -3,6 +3,6 @@ function lastMonthDay(input) {
     let year = input[2];
 
     let date = new Date(year, month - 1);
-    date.setDate(0)
+    date.setDate(0);
     console.log(date.getDate());
 }

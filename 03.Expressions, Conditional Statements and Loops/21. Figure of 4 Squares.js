@@ -1,21 +1,17 @@
 function figure(num) {
-    console.log(`+${'-'.repeat(num - 2)}+${'-'.repeat(num - 2)}+`);
-    if (num % 2 === 0)
-    {
-        for(let j = 1; j <= 2; j++) {
-            for (let i = 1; i <= num % 4 - 1; i++) {
-                console.log(`|${' '.repeat(num - 2)}|${' '.repeat(num - 2)}|`)
-            }
-            console.log(`+${'-'.repeat(num - 2)}+${'-'.repeat(num - 2)}+`);
-        }
+    if (num === 2){
+        console.log('+'.repeat(3));
+        return;
     }
     else{
-        for(let j = 1; j <= 2; j++) {
-            for (let i = 1; i <= num / 2 - 1; i++) {
-                console.log(`|${' '.repeat(num - 2)}|${' '.repeat(num - 2)}|`)
-            }
-            console.log(`+${'-'.repeat(num - 2)}+${'-'.repeat(num - 2)}+`);
+        console.log(`+${'-'.repeat((2 * num - 4) / 2)}+${'-'.repeat((2 * num - 4) / 2)}+`);
+        for (let i = 0; i < (num - 4) / 2; i++) {
+            console.log(`|${' '.repeat((2 * num - 4) / 2)}|${' '.repeat((2 * num - 4) / 2)}|`)
+        }
+        console.log(`+${'-'.repeat((2 * num - 4) / 2)}+${'-'.repeat((2 * num - 4) / 2)}+`);
+        for (let i = 0; i < (num - 4) / 2; i++) {
+            console.log(`|${' '.repeat((2 * num - 4) / 2)}|${' '.repeat((2 * num - 4) / 2)}|`)
         }
     }
+    console.log(`+${'-'.repeat((2 * num - 4) / 2)}+${'-'.repeat((2 * num - 4) / 2)}+`);
 }
-
