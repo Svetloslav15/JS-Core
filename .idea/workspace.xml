@@ -2,20 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="008cd468-ce1a-456b-9833-2ca281814163" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/03.Expressions, Conditional Statements and Loops/22. Monthly Calendar.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/02. Road Radar.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/03. Template Format.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/04. Cooking by Numbers.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/05. Modify Average.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/06. Validity Checker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/07. Treasure Locator.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/08. Trip Length.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/09. Radio Crystals.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/09. Strings and Regular Expressions Exercise/01. Split a String with a Delimiter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/09. Strings and Regular Expressions Exercise/02. Repeat a String N Times.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/09. Strings and Regular Expressions Exercise/03. Starts With.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/09. Strings and Regular Expressions Exercise/04. Ends With.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/09. Strings and Regular Expressions Exercise/05. Capitalize the Words.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/03.Expressions, Conditional Statements and Loops/13. Last Month.js" afterPath="$PROJECT_DIR$/03.Expressions, Conditional Statements and Loops/13. Last Month.js" />
-      <change beforePath="$PROJECT_DIR$/03.Expressions, Conditional Statements and Loops/20. Multiplication Table.js" afterPath="$PROJECT_DIR$/03.Expressions, Conditional Statements and Loops/20. Multiplication Table.js" />
-      <change beforePath="$PROJECT_DIR$/03.Expressions, Conditional Statements and Loops/21. Figure of 4 Squares.js" afterPath="$PROJECT_DIR$/03.Expressions, Conditional Statements and Loops/21. Figure of 4 Squares.js" />
-      <change beforePath="$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/01. Inside Volume.js" afterPath="$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/01. Inside Volume.js" />
+      <change beforePath="$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/09. Radio Crystals.js" afterPath="$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/09. Radio Crystals.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,56 +22,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="22. Monthly Calendar.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03.Expressions, Conditional Statements and Loops/22. Monthly Calendar.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="833">
-              <caret line="49" column="5" lean-forward="true" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="01. Inside Volume.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/01. Inside Volume.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="02. Road Radar.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/02. Road Radar.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="03. Template Format.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/03. Template Format.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="04. Cooking by Numbers.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/04. Cooking by Numbers.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="55" lean-forward="true" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="05. Modify Average.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/05. Modify Average.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -92,7 +35,7 @@
       <file leaf-file-name="06. Validity Checker.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/06. Validity Checker.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="238">
               <caret line="14" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
               <folding />
             </state>
@@ -102,7 +45,7 @@
       <file leaf-file-name="07. Treasure Locator.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/07. Treasure Locator.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
+            <state relative-caret-position="221">
               <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
               <folding />
             </state>
@@ -119,11 +62,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="09. Radio Crystals.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="09. Radio Crystals.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/09. Radio Crystals.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+            <state relative-caret-position="39">
+              <caret line="26" column="23" lean-forward="false" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="01. Split a String with a Delimiter.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/09. Strings and Regular Expressions Exercise/01. Split a String with a Delimiter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02. Repeat a String N Times.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/09. Strings and Regular Expressions Exercise/02. Repeat a String N Times.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03. Starts With.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/09. Strings and Regular Expressions Exercise/03. Starts With.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="5" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="7" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04. Ends With.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/09. Strings and Regular Expressions Exercise/04. Ends With.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="50" lean-forward="false" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05. Capitalize the Words.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/09. Strings and Regular Expressions Exercise/05. Capitalize the Words.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -145,11 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/04. Functions and Arrow Functions/07.Words UpperCase.js" />
-        <option value="$PROJECT_DIR$/06.Arrays and Matrices/01. Sum First Last.js" />
-        <option value="$PROJECT_DIR$/06.Arrays and Matrices/02. Even Position Elements.js" />
-        <option value="$PROJECT_DIR$/06.Arrays and Matrices/03. Negative  and Positive Numbers.js" />
-        <option value="$PROJECT_DIR$/06.Arrays and Matrices/04. First and Last K Numbers.js" />
         <option value="$PROJECT_DIR$/06.Arrays and Matrices/05. Last K Numbers Sequence.js" />
         <option value="$PROJECT_DIR$/06.Arrays and Matrices/06. Process Odd Numbers.js" />
         <option value="$PROJECT_DIR$/06.Arrays and Matrices/07. Smallest Two Numbers.js" />
@@ -183,7 +171,6 @@
         <option value="$PROJECT_DIR$/08.Strings and Regular Expressions/11. Email Validation.js" />
         <option value="$PROJECT_DIR$/03.Expressions, Conditional Statements and Loops/13. Last Month.js" />
         <option value="$PROJECT_DIR$/03.Expressions, Conditional Statements and Loops/20. Multiplication Table.js" />
-        <option value="$PROJECT_DIR$/03.Expressions, Conditional Statements and Loops/05. Grads to Radians.js" />
         <option value="$PROJECT_DIR$/03.Expressions, Conditional Statements and Loops/08. Imperial Units.js" />
         <option value="$PROJECT_DIR$/03.Expressions, Conditional Statements and Loops/21. Figure of 4 Squares.js" />
         <option value="$PROJECT_DIR$/03.Expressions, Conditional Statements and Loops/22. Monthly Calendar.js" />
@@ -195,7 +182,13 @@
         <option value="$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/06. Validity Checker.js" />
         <option value="$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/07. Treasure Locator.js" />
         <option value="$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/08. Trip Length.js" />
+        <option value="$PROJECT_DIR$/03.Expressions, Conditional Statements and Loops/05. Grads to Radians.js" />
         <option value="$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/09. Radio Crystals.js" />
+        <option value="$PROJECT_DIR$/09. Strings and Regular Expressions Exercise/01. Split a String with a Delimiter.js" />
+        <option value="$PROJECT_DIR$/09. Strings and Regular Expressions Exercise/02. Repeat a String N Times.js" />
+        <option value="$PROJECT_DIR$/09. Strings and Regular Expressions Exercise/03. Starts With.js" />
+        <option value="$PROJECT_DIR$/09. Strings and Regular Expressions Exercise/04. Ends With.js" />
+        <option value="$PROJECT_DIR$/09. Strings and Regular Expressions Exercise/05. Capitalize the Words.js" />
       </list>
     </option>
   </component>
@@ -254,7 +247,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -266,17 +258,13 @@
             <path>
               <item name="05.Java Script Fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="05.Java Script Fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="03.Expressions, Conditional Statements and Loops" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="05.Java Script Fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="05.Java Script Fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="05. Functions and Arrow Functions Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="09. Strings and Regular Expressions Exercise" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -300,26 +288,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.09. Radio Crystals.js">
-    <configuration name="04. Cooking by Numbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="04. Cooking by Numbers.js" working-dir="$PROJECT_DIR$/05. Functions and Arrow Functions Exercise" />
-    <configuration name="05. Modify Average.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="05. Modify Average.js" working-dir="$PROJECT_DIR$/05. Functions and Arrow Functions Exercise" />
-    <configuration name="06. Validity Checker.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="06. Validity Checker.js" working-dir="$PROJECT_DIR$/05. Functions and Arrow Functions Exercise" />
-    <configuration name="08. Trip Length.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="08. Trip Length.js" working-dir="$PROJECT_DIR$/05. Functions and Arrow Functions Exercise" />
-    <configuration name="09. Radio Crystals.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="09. Radio Crystals.js" working-dir="$PROJECT_DIR$/05. Functions and Arrow Functions Exercise" />
+  <component name="RunManager" selected="Node.js.05. Capitalize the Words.js">
+    <configuration name="01. Split a String with a Delimiter.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="01. Split a String with a Delimiter.js" working-dir="$PROJECT_DIR$/09. Strings and Regular Expressions Exercise" />
+    <configuration name="02. Repeat a String N Times.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="02. Repeat a String N Times.js" working-dir="$PROJECT_DIR$/09. Strings and Regular Expressions Exercise" />
+    <configuration name="03. Starts With.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="03. Starts With.js" working-dir="$PROJECT_DIR$/09. Strings and Regular Expressions Exercise" />
+    <configuration name="04. Ends With.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="04. Ends With.js" working-dir="$PROJECT_DIR$/09. Strings and Regular Expressions Exercise" />
+    <configuration name="05. Capitalize the Words.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="05. Capitalize the Words.js" working-dir="$PROJECT_DIR$/09. Strings and Regular Expressions Exercise" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.04. Cooking by Numbers.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.05. Modify Average.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.06. Validity Checker.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.08. Trip Length.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.09. Radio Crystals.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.01. Split a String with a Delimiter.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.02. Repeat a String N Times.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.03. Starts With.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.04. Ends With.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.05. Capitalize the Words.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.09. Radio Crystals.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.08. Trip Length.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.06. Validity Checker.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.05. Modify Average.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.04. Cooking by Numbers.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.05. Capitalize the Words.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.04. Ends With.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.03. Starts With.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.02. Repeat a String N Times.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.01. Split a String with a Delimiter.js" />
       </list>
     </recent_temporary>
   </component>
@@ -353,21 +341,22 @@
       <workItem from="1526372838291" duration="5024000" />
       <workItem from="1526403746421" duration="7835000" />
       <workItem from="1526553583920" duration="15594000" />
+      <workItem from="1526620043659" duration="9622000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83521000" />
+    <option name="totallyTimeSpent" value="93143000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27894738" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2736842" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -397,42 +386,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/07.Arrays and Matrices Exercise/05. Extract Increasing Subsequence from Array.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07.Arrays and Matrices Exercise/06. Sort Array.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08.Strings and Regular Expressions/01. Print Letters.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07.Arrays and Matrices Exercise/07. Magic Matrices.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="1" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07.Arrays and Matrices Exercise/08. Spiral Matrix.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08.Strings and Regular Expressions/12. Expression Split.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -465,7 +418,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -473,7 +425,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -481,7 +432,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -489,7 +439,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -497,7 +446,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="80" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -505,7 +453,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -521,7 +468,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -529,7 +475,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -537,7 +482,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -545,7 +489,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -553,7 +496,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -561,7 +503,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -569,7 +510,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -577,15 +517,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03.Expressions, Conditional Statements and Loops/05. Grads to Radians.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -593,7 +524,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -601,7 +531,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -609,7 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="17" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -617,7 +545,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -625,7 +552,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -633,7 +559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -641,7 +566,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -649,7 +573,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -657,7 +580,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -665,7 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -673,7 +594,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -681,7 +601,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -697,7 +616,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="28" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -705,7 +623,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -713,21 +630,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/03.Expressions, Conditional Statements and Loops/22. Monthly Calendar.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="833">
-          <caret line="49" column="5" lean-forward="true" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+          <caret line="49" column="5" lean-forward="false" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/02. Road Radar.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="238">
           <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="9" />
           <folding />
         </state>
@@ -736,15 +652,7 @@
     <entry file="file://$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/01. Inside Volume.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/07. Treasure Locator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <caret line="17" column="34" lean-forward="false" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
           <folding />
         </state>
       </provider>
@@ -752,7 +660,15 @@
     <entry file="file://$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/03. Template Format.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.Expressions, Conditional Statements and Loops/05. Grads to Radians.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -760,7 +676,15 @@
     <entry file="file://$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/04. Cooking by Numbers.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="55" lean-forward="true" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+          <caret line="12" column="55" lean-forward="false" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/06. Validity Checker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -773,10 +697,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/06. Validity Checker.js">
+    <entry file="file://$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/07. Treasure Locator.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="221">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -791,8 +715,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/05. Functions and Arrow Functions Exercise/09. Radio Crystals.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+        <state relative-caret-position="39">
+          <caret line="26" column="23" lean-forward="false" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09. Strings and Regular Expressions Exercise/01. Split a String with a Delimiter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09. Strings and Regular Expressions Exercise/02. Repeat a String N Times.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09. Strings and Regular Expressions Exercise/03. Starts With.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="7" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09. Strings and Regular Expressions Exercise/04. Ends With.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="50" lean-forward="false" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09. Strings and Regular Expressions Exercise/05. Capitalize the Words.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
           <folding />
         </state>
       </provider>
