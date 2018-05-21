@@ -1,10 +1,10 @@
-function solution(arr) {
-    aggregate(0, (a, b) =>{return a + b});
-    aggregate(0, (a, b) =>{return a + 1 / b});
-    aggregate('', (a, b) =>{return a + b});
-    function aggregate(initialValue, arrow) {
-        for (let i = 0; i < arr.length - 1; i++) {
-            initialValue = arrow(initialValue, arr[i])
+function aggregateElements(input) {
+    aggregate(input, 0, (a, b) => a + b);
+    aggregate(input, 0, (a, b) => a + 1 / b);
+    aggregate(input, '', (a, b) => a + b);
+    function aggregate(input, initialValue, func) {
+        for (let index = 0; index < input.length; index++) {
+            initialValue = func(initialValue, input[index]);
         }
         console.log(initialValue);
     }
