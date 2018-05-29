@@ -13,3 +13,4 @@ function countWords(input) {
     }
     console.log(JSON.stringify(object));
 }
+countWords('Far too slow, you\'re far too slow.')
