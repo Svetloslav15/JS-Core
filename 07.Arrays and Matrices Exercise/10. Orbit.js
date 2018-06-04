@@ -54,3 +54,4 @@ function orbit(input) {
     }
     console.log(matrix.map(row => row.join(" ")).join("\n"));
 }
+orbit([10, 10, 8, 0])
