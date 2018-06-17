@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="008cd468-ce1a-456b-9833-2ca281814163" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chess Game/d.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Exam 16.10.2016/03. Spy Master.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Exam 16.10.2016/04. Radical Marketing.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Exam 16.12.2016/04. Airport.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Exam 24.04.2018/01. Gladiator Expenses.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Exam 24.04.2018/02. Gladiator Inventory.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Exam 24.04.2018/03. Ancient VS Memory.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Exam 24.04.2018/04. Arena Tier.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JS Fundamentals Exam - 10 June 2018/1.Travel Plans.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JS Fundamentals Exam - 10 June 2018/2.Travel Investigation.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JS Fundamentals Exam - 10 June 2018/3. Minke, Decode.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JS Fundamentals Exam - 10 June 2018/4.Travel Time.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Simple Exam 1/04. Angular Parser.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/09. Strings and Regular Expressions Exercise/02. Repeat a String N Times.js" afterPath="$PROJECT_DIR$/09. Strings and Regular Expressions Exercise/02. Repeat a String N Times.js" />
-      <change beforePath="$PROJECT_DIR$/Exam 16.12.2016/03. Format Helper.js" afterPath="$PROJECT_DIR$/Exam 16.12.2016/03. Format Helper.js" />
-      <change beforePath="$PROJECT_DIR$/Retake Exam 3.09.2017/01. The Hungry Programmer.js" afterPath="$PROJECT_DIR$/Retake Exam 3.09.2017/01. The Hungry Programmer.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -35,8 +19,8 @@
       <file leaf-file-name="1.Travel Plans.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JS Fundamentals Exam - 10 June 2018/1.Travel Plans.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+            <state relative-caret-position="354">
+              <caret line="45" column="47" lean-forward="false" selection-start-line="45" selection-start-column="47" selection-end-line="45" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -45,7 +29,7 @@
       <file leaf-file-name="2.Travel Investigation.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JS Fundamentals Exam - 10 June 2018/2.Travel Investigation.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
+            <state relative-caret-position="629">
               <caret line="37" column="24" lean-forward="false" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
               <folding />
             </state>
@@ -266,7 +250,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -284,6 +267,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -292,7 +276,7 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../08.Web Development Basics" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -404,17 +388,17 @@
       <workItem from="1528634052105" duration="11538000" />
       <workItem from="1528654840182" duration="620000" />
       <workItem from="1528658535372" duration="1201000" />
+      <workItem from="1528732765085" duration="70000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="341857000" />
+    <option name="totallyTimeSpent" value="341927000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34402853" sideWeight="0.50298065" order="7" side_tool="true" content_ui="tabs" />
@@ -492,16 +476,6 @@
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/Exam 16.12.2016/01. Spice Must Flow.js</url>
-          <line>6</line>
-          <option name="timeStamp" value="42" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/Exam 16.12.2016/02. Build a Wall.js</url>
-          <line>20</line>
-          <option name="timeStamp" value="43" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/Exam 16.10.2016/01. Arithmephile.js</url>
           <line>3</line>
           <option name="timeStamp" value="44" />
@@ -575,16 +549,6 @@
           <url>file://$PROJECT_DIR$/Exam 24.04.2018/04. Arena Tier.js</url>
           <line>4</line>
           <option name="timeStamp" value="139" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/Exam 16.12.2016/03. Format Helper.js</url>
-          <line>1</line>
-          <option name="timeStamp" value="140" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/Simple Exam 1/04. Angular Parser.js</url>
-          <line>89</line>
-          <option name="timeStamp" value="155" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/Exam 16.10.2016/04. Radical Marketing.js</url>
@@ -1003,7 +967,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JS Fundamentals Exam - 10 June 2018/2.Travel Investigation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
+        <state relative-caret-position="629">
           <caret line="37" column="24" lean-forward="false" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
           <folding />
         </state>
@@ -1011,8 +975,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JS Fundamentals Exam - 10 June 2018/1.Travel Plans.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        <state relative-caret-position="354">
+          <caret line="45" column="47" lean-forward="false" selection-start-line="45" selection-start-column="47" selection-end-line="45" selection-end-column="47" />
           <folding />
         </state>
       </provider>
