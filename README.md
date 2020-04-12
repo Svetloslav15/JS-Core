@@ -20,6 +20,4 @@ Here are all exercises from the course Programming Fundamentals in SoftUni.
 [Exam 24.04.2018](https://github.com/Svetloslav15/JS-Fundamentals/tree/master/Exam%2024.04.2018)</br>
 [JS Fundamentals Exam - 10 June 2018](https://github.com/Svetloslav15/JS-Fundamentals/tree/master/JS%20Fundamentals%20Exam%20-%2010%20June%202018)</br>
 [Retake Exam 3.09.2017](https://github.com/Svetloslav15/JS-Fundamentals/tree/master/Retake%20Exam%203.09.2017)</br>
-[Sample Exam 2](Sample Exam 2)</br>
 [Simple Exam 1](https://github.com/Svetloslav15/JS-Fundamentals/tree/master/Simple%20Exam%201)</br>
-[]()</br>
